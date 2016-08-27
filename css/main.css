@@ -46,6 +46,7 @@ li{
 	background-color: black;
 	position: relative;
 	left: 100px;
+	display: none;
 
 }
 a:hover .nombre{
